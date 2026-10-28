@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "cudacellr"]
+	path = cudacellr
+	url = https://github.com/cudaverse/cudacellr
 [submodule "cudaverse"]
 	path = cudaverse
 	url = https://github.com/cudaverse/cudaverse
